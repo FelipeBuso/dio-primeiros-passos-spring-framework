@@ -59,6 +59,13 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/felipe/dio/java/dio-primeiros-passos-spring-framework",
     "settings.editor.selected.configurable": "preferences.customizations"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,7 +73,7 @@
       <recent name="dio.springboot.scopes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dio.springboot.value.Main">
+  <component name="RunManager" selected="Application.dio.springboot.configuration_properties.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.springboot.app.Main" />
       <module name="primeiros-passos" />
@@ -86,6 +93,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dio.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dio.springboot.configuration_properties.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.springboot.configuration_properties.Main" />
+      <module name="primeiros-passos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.springboot.configuration_properties.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,6 +186,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dio.springboot.configuration_properties.Main" />
         <item itemvalue="Application.dio.springboot.value.Main" />
         <item itemvalue="Application.dio.springboot.scopes.Main" />
         <item itemvalue="Application.Main" />
