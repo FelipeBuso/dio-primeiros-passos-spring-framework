@@ -1,4 +1,4 @@
-package dio.springboot;
+package dio.springboot.primeiros_passos.app;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

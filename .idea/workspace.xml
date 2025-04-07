@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db59ae2-4b4a-4045-a921-cb131fe9951a" name="Changes" comment="" />
+    <list default="true" id="0db59ae2-4b4a-4045-a921-cb131fe9951a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "FelipeBuso"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FelipeBuso&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:FelipeBuso/dio-primeiros-passos-spring-framework.git",
-    "accountId": "e8c2fc30-1717-4ede-a357-b3a72647f2ce"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:FelipeBuso/dio-primeiros-passos-spring-framework.git&quot;,
+    &quot;accountId&quot;: &quot;e8c2fc30-1717-4ede-a357-b3a72647f2ce&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -51,13 +53,14 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
     "Application.PrimeirosPassosApplication.executor": "Run",
+    "Application.dio.springboot.configuration_properties.Main.executor": "Run",
     "Application.dio.springboot.scopes.Main.executor": "Run",
     "Application.dio.springboot.value.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/felipe/dio/java/dio-primeiros-passos-spring-framework",
+    "last_opened_file_path": "/home/felipe/dio/java/dio-primeiros-passos-spring-framework/src/main/java/dio/springboot/primeiros_passos",
     "settings.editor.selected.configurable": "preferences.customizations"
   },
   "keyToStringList": {
@@ -88,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="PrimeirosPassosApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.springboot.PrimeirosPassosApplication" />
+      <option name="MAIN_CLASS_NAME" value="dio.springboot.primeiros_passos.PrimeirosPassosApplication" />
       <module name="primeiros-passos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.springboot.*" />
+          <option name="PATTERN" value="dio.springboot.primeiros_passos.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
